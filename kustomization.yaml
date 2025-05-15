@@ -7,3 +7,4 @@ resources:
 images:
 - name: vinnioliver66/teste
   newName: vinnioliver66/teste
+  newTag: v12
